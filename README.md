@@ -5,7 +5,8 @@ This a design of Vallie's Estate home page which is desgined using html and css
 5/07/2022
 
 ## Demo
-Here is a live demo of the landing page:
+## Here is a live demo of the landing page:
+https://steve2030.github.io/moringa-last-revision/
 
 
 ## By
@@ -17,7 +18,7 @@ A landing page helos you convert your visitors into potential customers or help 
 ## Built With
   ### Html and Css
 
-##Prequisites
+## Prequisites
 A web browser preferable chrome
 
 ## Setup/Installation Requirements
@@ -31,7 +32,7 @@ Bootstrap
 SetUp for ubuntu users
 ## Fork this repo
 On your git bash terminal git clone <path to repo>
-##Navigate to the cloned repo
+## Navigate to the cloned repo
 Open the cloned repo on your visual studio by using this command: code .
 Make changes or debug
 Known Bugs
