@@ -1,4 +1,4 @@
-#Brief description of application
+ # Brief description of application
 This a design of Vallie's Estate home page which is desgined using html and css
 
 //Date of current version
